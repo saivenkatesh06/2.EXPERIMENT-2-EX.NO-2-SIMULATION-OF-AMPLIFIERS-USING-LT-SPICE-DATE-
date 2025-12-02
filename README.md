@@ -22,7 +22,8 @@ DATE:
 
 1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 
-<img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/6c84b614-52e4-4620-982c-99d422c7a541" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/675715c8-9514-409b-9e58-b3261d5f7096" />
+
 
 
 ---
@@ -31,7 +32,8 @@ DATE:
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-15 at 10 57 20 AM](https://github.com/user-attachments/assets/27e221fd-63ba-4222-9150-67da5d81c647)
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/66b71d04-e586-4c3d-ad8b-51a2a7906ca1" />
+
 
 ---
 
@@ -39,28 +41,33 @@ DATE:
 
 PASTE THE CIRCUIT HERE
 ---
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d886c59f-0125-4d81-85ec-e6bb4586bdc2" />
 
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c8adae11-609b-4534-b543-26db2203ec4c" />
 
-PASTE THE OUTPUT WAVEFORM HERE
----
+
+
 3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 
 PASTE THE CIRCUIT HERE
 ---
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e488199e-f835-45c5-8413-28b993cd68b9" />
+
 
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d9fbe604-e500-476d-b325-503982b076c9" />
 
-PASTE THE OUTPUT WAVEFORM HERE
----
+
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 
 PASTE THE CIRCUIT HERE
 ---
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ac078140-9cee-4d7f-8524-c2f05abd7cb0" />
 
 
 
@@ -68,6 +75,7 @@ PASTE THE CIRCUIT HERE
 
 PASTE THE OUTPUT WAVEFORM HERE
 ---
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ef9267ab-a2c0-4f2e-ae6a-a2ec37c746e6" />
 
 ## RESULT
 Thus, the Inverting,Non-Inverting, Differential, and Instrumentation Amplifiers were designed and their performance successfully tested using LT-SPICE.
